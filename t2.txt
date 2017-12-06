@@ -1,0 +1,41 @@
+`10	4339315	Tablet Positivo YPY AB10i Wi-Fi tela de 10.1 polegadas 16GB, And 4.4 - 1.33 GHz
+11	3054015	Tablet Multilaser M7s - Tela 7?, Android 4.4, Quad Core 1.2GHz, Camera, 8GB, 3G , Wi-Fi - NB185 Bran
+12	2382529	Tablet Infantil Multilaser Kid Pad NB195 Tela 7” Android 4.4 Kit Kat 8GB 3G Wi-Fi Rosa Quad Core
+13	4005585	Tablet Navcity 7', Dual Core, Android 4.2, Wi-Fi, 128 GB de Memoria, Preto NT1715
+14	2974559	Tablet Multilaser M7s - Tela 7, Android 4.4, Quad Core 1.2GHz, Camera, 8GB, 3G , Wi-Fi - NB186 Rosa
+15	3166597	Tablet Samsung Galaxy Tab E 7.0 WiFi Branco 8 GB com a tela 7' Processador Quad Core de 1.3GHz,Bluetooth e Android 4.4 T113NU
+16	4343257	Tablet Zagg Z Tab 7' PC 722 Preto com Tela 7', 4GB, Camera VGA, Suporte a Modem 3G, Wi-Fi, Android 4
+17	3542130	Tablet Phaser Kinno Plus, Tela 7', Android 4.0.3, 64gB de Memoria, Wi-Fi, 3G (Via Modem Externo), Preto
+18	4122226	Tablet M10a Preto Quad Core Android 6.0 Dual Camera 3g E Bluetooth Tela 10 P. Multilaser - Nb253
+19	4157038	iPad 128GB Wi-Fi Prata MP2J2BZ/A Apple
+20	3053320	Tablet Multilaser M7s - Tela 7?, Android 4.4, Quad Core 1.2GHz, Camera, 8GB, 3G , Wi-Fi,Preto - NB18
+21	3834398	Kindle Paperwhite Amazon Tela 6´´ Preto, Wi-fi, 4GB, C/Luz
+22	2382744	Tablet Multilaser M7S NB196 Tela 7” Android 4.4 Kit 16GB Wi-Fi Preto Quad Core com Teclado
+23	4097302	Tablet Multilaser M7I-3G Tela 7” Android 4.4 8GB 3G Wi-Fi Branco Quad Core 1.2 GHz
+24	3408014	Tablet Galaxy Tab E T113NU Preto Tela 7' WiFi Android 4.4 2MP 8GB Samsung
+25	4163615	Tablet Samsung Galaxy Tab A Note 2016 SM-P585M 10.1 Android Marshmallow 16 GB 4G Wi-Fi Branco Octa Core 1.6 GHz
+26	1194385	Galaxy Tab 3 Plus Samsung SM-T113NU Wi-fi Branco
+27	3646242	Tablet Multilaser Kid Pad 8Gb ,Quad Core ,Android 4.4 ,Cam 2.0 MP, Rosa NB195
+28	3305989	Tablet Multilaser M7 7 Android 4.4 Kit Kat 8GB Wi-Fi 3G Rosa Quad Core
+29	4002790	Tablet Multilaser M7s Teclado+Case Preto Quad Core Android 4-4 Dual Cam 1-3/2MP 7'' 8gb NB196
+30	4164076	Tablet Samsung Galaxy Tab S3 SM-T825 9.7 Android Nougat 32 GB 4G Wi-Fi Prata Quad Core 2.15 GHz
+31	4104983	Tablet Multilaser Vingadores, Tela de 7', Quad Core, Android 4.4, Wi-Fi - NB239
+32	128066	Tablet Space Tech Slim Tela 9.7 Android 4.0 8GB Wi-Fi Preto Cortex A8 1.2 MHZ
+33	3889548	Tablet Supra Quad Core Rosa Multilaser NB201
+34	3632011	Tablet Infantil Multilaser Disney Star Wars Tela 7” Android 4.4 8GB Wi-Fi Laranja Quad Core
+35	4104986	Tablet Multilaser M7s - Tela 7?, Android 4.4, Quad Core 1.2GHz, Camera, 8GB, 3G , Wi-Fi - NB186 Rosa
+36	2956103	Tablet Multilaser Kid Pad Com Tela 7' 8GB Camera 2.0MP Wi-Fi Android 4.4 e Suporte a Modem 3G-Az
+37	1568862	Tablet M9 Quad Core Android 4.4 Rosa NB174 Multilaser
+38	3305939	Tablet Multilaser M7S 7 Android 4.4 Kit Kat 8GB Wi-Fi Branco Quad Core
+39	3830111	Tablet Multilaser M7 3G, Quad Core, Tela 7', 8GB de Memoria, Dual Chip, Wi-Fi, Preto - NB223
+40	3669654	Tablet Multilaser M7 3G, Quad Core, Tela 7', 8GB de Memoria, Dual Chip, Wi-Fi, Preto NB223
+41	3269891	Tablet M7, Dual Chip, Preto, Tela 7', 3G+WiFi, Android 4.4, 2MP, 8GB Multilaser
+42	2974561	Tablet Supra Quad Core - Rosa Multilaser - NB201
+43	2760577	Tablet M7s Quad Core + Teclado Multilaser - NB196
+44	3870247	Tablet 2 Em 1 Multilaser M8w Plus Quad Core 2gb De Ram 32gb De Memoria Tela Led 8 9' Windows 10
+45	3962667	Tablet DL TabPhone 710 Pro Cinza
+46	4343256	Tablet Phaser Kinno PC-719VE com Tela 7”, Wi-Fi, Suporte a Modem 3G e Android 2.2
+47	4250833	Tablet Samsung Galaxy Tab E Preto Tela 9.6” Android 4.4 8GB Wi Fi Processador Quad-Core 1.3GHz
+48	3603012	Tablet DL X-Quad Pro 8GB 7'' Wi-Fi Android 5.1 Proc Quad Core 1.2GHz
+49	1706214	Tablet Braview Quad Core 16GB Windows 8.1 7 Polegadas 1GB RAM 35F16G-81280W
+50	4096223	Tablet Multilaser M7I Rosa NB246

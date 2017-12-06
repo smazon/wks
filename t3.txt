@@ -1,0 +1,49 @@
+52	4257556	Tablet Dazz MX7BT Quad Core, 7 Polegadas, Wi-Fi, 1GB, 8GB, Bluetooth, Android 6.0, Branco - 69178
+53	4256140	Tablet Samsung Galaxy Tab E 7.0 WiFi Preto 8 GB com a tela 7' Processador Quad Core de 1.3GHz,Bluetooth e Android 4.4 T113NU
+54	4163860	Tablet Samsung Galaxy Tab S3 SM-T825 9.7 Android Nougat 32 GB 4G Wi-Fi Preto Quad Core 2.15 GHz
+55	3310917	Tablet DL Social Phone 700 Dual Chip 3G TX316 Branco
+56	4250829	Tablet Samsung Galaxy Tab E 7.0 Branco WiFi 8 GB com a tela 7' Processador Quad Core de 1.3GHz,Bluetooth e Android 4.4
+57	1539699	Tablet Samsung Galaxy Tab E Tela 9.6” Android 4.4 128 GB 3G Wi Fi Branco Processador Quad-Core 1.3GHz
+58	2133770	Tablet Multilaser M7S Preto Quad Core Android 4.4 Kit Kat Dual Camera Wi-Fi Tela Capacitiva 7' Memoria 8Gb - NB184
+59	4132878	Kit DL Tablet Social Phone 700 com Tela 7 8GB Android 5 Intel Atom de 1.2GHz + Capa de Protecao
+60	3408031	Tablet Galaxy Tab E T116BU Preto Tela 7' 3GWiFi Android 4.4 Camera 2MP Memoria 8GB Samsung
+61	1913880	Tablet DL TabCam Tela 7” Android 4.4 Kit Kat 8GB Wi-Fi Branco Quad Core
+62	3870585	Tablet ML Supra Preto Multilaser NB199
+63	4035310	Tablet Braview 3G Quad Core 1GB RAM 8G Memoria Android 5.1 Tabfone Preto
+64	3665909	Tablet Infantil Multilaser Disney Vingadores Tela 7” Android 4.4 8GB Wi-Fi Azul Quad Core
+65	2133765	Tablet Multilaser M7S Branco Quad Core Android 4.4 Kit Kat Dual Camera Wi-Fi Tela Capacitiva 7' Memoria 8Gb - NB185
+66	2732245	Tablet Multilaser Branco M7 3G Quad Core Camera Wi-Fi Tela Hd 7' Memoria 8GB Dual Chip NB224
+67	4002875	Tablet Multilaser M7s Tela 7', Android 4.4, Quad Core 1.2GHz, Camera, 64 GB, 3G , Wi-Fi NB186 Rosa
+68	3396204	Tablet M7 Dual Chip Branco Tela 7', 3G+WiFi Android 4.4 2MP 8GB Multilaser
+69	3169604	Tablet Kid Pad, Rosa, Tela 7', 3G+WiFi, Android 4.4, 2MP, 8GB Multilaser
+70	3417591	Tablet M7 S Rosa Tela 7' WiFi Android 4.4 2MP 8G Multilaser
+71	1539700	Tablet Samsung Galaxy Tab E Tela 9.6” Android 4.4 8GB 3G Wi Fi Preto Processador Quad-Core 1.3GHz
+72	3902076	Tablet 3G tela 10.1 polegadas quad core dual camera 0.3MP + 3.0MP android 4.2 Memoria 16GB preto Multilaser - NB950
+73	1735993	Tablet Samsung Galaxy Tab E 9.6 Wi-Fi SM-T560 com Tela 9.6?, 32 GB, Camera 5MP, GPS, Android 4.4, Processador Quad Core 1.3 Ghz Branco
+74	4163131	Tablet Samsung Galaxy Tab A Note 2016 SM-P585M 10.1 Android Marshmallow 16 GB 4G Wi-Fi Preto Octa Core 1.6 GHz
+75	3663565	Tablet Multilaser M7s - Tela 7?, Android 4.4, Quad Core 1.2GHz, Camera, 8GB, 3G , Wi-Fi,Preto NB18
+76	1185536	Tablet Galaxy Tab E 3G Samsung SM-T116BYKPZTO 8GB Wi-Fi 3G
+77	4058807	Tablet Phaser Kinno TV Digital/Analogica 4GB Tela 7' Android 4.0 Preto
+78	2974557	Tablet Multilaser Hibrido 8.9 Windows Intel Quad Core 1gb Ram+16 Gb Dual - Red
+79	4234850	Tablet Samsung Galaxy Tab E 7.0 WiFi 8 GB com a tela 7' Processador Quad Core de 1.3GHz,Bluetooth e Android 4.4
+80	2093586	Tablet Samsung Galaxy Tab E 9.6 3G SM-T561 com Tela 9.6, 8GB, Camera 5MP, GPS, Android 4.4, Processador Quad Core 1.3 Ghz Preto
+81	4259594	Tablet Dazz MX7 Quad Core, 7 Polegadas, Wi-Fi, 512MB, 8GB, Android 5.1, Preto - 69182
+82	3846919	Tablet Samsung Tab E, T560 Preto - Tela 9.6'', Wi-Fi, 8GB, Camera 5MP e Frontal 2MP, Processador Quad-Core 1.3Ghz, Android 4.4
+83	2140474	Tablet Multilaser M7S Preto com Teclado e Capa Quad Core Android 4.4 Kit Kat Camera 2.0MP Wi-Fi Tela 7' Memoria 8GB NB196
+84	3877140	Tablet Phaser Kinno Plus, Tela 7, Android 4.0.3, 512mb De Me
+85	3828600	Tablet 2 em 1 Multilaser M8W Plus Quad Core, 2GB de RAM, 32GB de Memoria, Tela LED 8,9', Windows 10,
+86	1735979	Tablet Samsung Galaxy Tab E 7.0 3G SM-T116BU com Tela 7?, 8GB, Processador Quad Core de 1.3GHz, Cam. 2MP, AGPS, Bluetooth e Android 4.4 - Branco
+87	4007402	Tablet Multilaser M8W Plus Hibrido Win 10 Intel Quad Core 1,83 8.9' RAM 2GB 32GB Dual Cam Preto NB242
+88	2385488	Tablet Samsung Galaxy TAB-E 9.6 Polegadas Preto 3G Camera 5.0MP T561M
+89	1236221	Tablet Samsung Galaxy Tab 4 T231 / 8GB / 3MP / 3G / 7' - Branco
+90	3626276	Tablet KID PAD 7 Quad Core Rosa Multilaser NB195
+91	3943489	Tablet Samsung Galaxy Tab E 7.0 Wifi 8 GB Com A Tela 7´´ Preto
+92	4342536	Kindle Paperwhite Amazon Tela 6' Wi-fi 4GB Com Luz Preto
+93	3598355	Tablet Hibrido 8.9 Windows Intel Quad Core 1Gb Ram+16 Gb Dual
+94	3408028	Tablet Galaxy Tab E T116BU Branco Tela 7' 3G WiFi Android 4.4 Camera 2MP Memoria 8GB Samsung
+95	3134212	Tablet Multilaser M7S Branco Quad Core Android 4.4 Kit Kat Dual Camera Wi-Fi Tela Capacitiva 7' Memoria 16Gb NB185
+96	3937498	Tablet M8W Plus Hibrido Windows 10 8.9' RAM 2GB 32GB Dual Camera Preto Multilaser -NB242
+97	4246801	Tablet Supra Quad 7 Android 4.4 com 8 GB Multilaser
+98	3632570	Tablet Multilaser Disney Vingadores NB240 Azul Dual Camera 128GB Wi-Fi Quad-Core 1.2 GHz Android 4.4
+99	4257363	Tablet Every Rosa (E700) Processador Dual Core Tela de 7 Polegadas Android 4.0 Ice Cream Sandwich Wi
+100	2985011	Tablet Samsung Galaxy Tab E 9.6 3G SM T561 com Tela 9.6 8GB Camera 5MP 

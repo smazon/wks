@@ -1,0 +1,50 @@
+101	1836143	Tablet DL X-Pro Dual Branco com Tela 7?, 8GB, Wi-Fi, Duas cameras digitais Integradas Android 4.4 e Processador Intel® Dual Core de 1.2G
+102	3646187	Tablet Multilaser M7s - Tela 7', Android 4.4, Quad Core 1.2GHz, Camera, 8GB, 3G , Wi-Fi - NB185 Bran
+103	4342622	E-reader Amazon Kindle 8ª Geracao WI-FI 4GB Tela Touchscreen 6' Preto
+104	4342625	E-reader Amazon Kindle 8ª Geracao WI-FI 4GB Tela Touchscreen 6' Branco
+105	3408249	Tablet Samsung Galaxy Tab E T116BU Branco Memoria 8GB Tela 7.0' Android 4.4, Wi-Fi + 3G
+106	4220103	Tablet Multilaser M7S Branco Quad Core Android 4.4 Dual Cam 1.3/2MP 7'' 8gb NB185
+107	3889552	Tablet Multilaser M7 3G Quad Core Tela 7' 8GB de Memoria Dual Chip Wi Fi Branco NB224
+108	2240573	Tablet DL Xpro 7 Polegadas 8GB Wi-Fi Intel Dc Duas Cameras Android 4.4 - Tp266Bra Rosa Bvolt
+109	3834400	Kindle 8ª Geracao Amazon Tela 6´´ Preto, Wi-fi, 4GB
+110	4122234	Tablet M10A branco quad core android 6.0 dual camera 3G e bluetooth tela 10' polegadas Multilaser -
+111	128111	Tablet Space Tech Tela 7 Android 4.0 8GB Wi-Fi Preto Processador Allwinner A13 1.2GHz
+112	3959074	Tablet Multilaser M7s - Tela 7´, Android 4.4, Quad Core 1.2GHz, Camera, 8GB, 3G , Wi-Fi - NB185 Branco
+113	3979847	Tablet DL X Quad Pro Branco TX325BRA Tela 7´´, Wi-fi, 8GB
+114	4122298	Tablet Multilaser M9 3G Quad-Core, 9 Polegadas, 8GB, Bluetooth, Dual Chip, Rosa - NB248
+115	3964108	Tablet Multilaser M7 3G Rosa Quad Core Android 4.4 Dual Cam 1.3/2MP 7'' 32Gb Bluetooth NB225
+116	3070573	Tablet Samsung Galaxy Tab-E T113 7 Polegadas Wi-Fi Quad Core 8GB 2MP SmT113 Branco Bvolt
+117	3843675	Tablet Lenoxx TB-5400 Preto, Tela 7'', 8GB, Wi-Fi, Camera VGA Frontal e Traseira, Android 5.1
+118	3061162	Tablet Supra Quad Core Preto Multilaser NB199 84713019
+119	4039780	Tablet Braview 3G Quad Core 1GB RAM 8G Memoria Android 5.1 Tabfone Branco
+120	14635	Tablet Multilaser M-PRO Tela 7 Android 4.1 Wi-Fi 3G Preto Dual Core
+121	2732249	Tablet Multilaser Preto M7 3G Quad Core Camera Wi-Fi Tela Hd 7' Memoria 8GB Dual Chip NB223
+122	3937500	Tablet M10A branco quad core android 6.0 dual camera 3G e bluetooth tela 10' polegadas Multilaser - NB254
+123	3673698	Tablet Multilaser M7s Preto Quad Core Android 4.4 Kit Kat Dual Camera Wi-fi Tela Capacitiva 7' Memoria 8gb - Nb184
+124	2133783	Tablet Multilaser ML Supra Rosa Quad Core Android 4.4 Kit Kat Dual Camera Wi-Fi Tela 7 Memoria 8GB NB201
+125	3821011	Tablet 11,6 x 6,5pol Display interativo Wacom Cintiq Comp2, 512GB, i7 DTHW1310H
+126	3476520	Tablet Multilaser Supra ML Tela 7' 8GB Quad Core Wi-Fi Android Branco NB200
+127	3632577	Tablet Multilaser Kid Pad Rosa Quad Core Android 4.4 Dual Camera Tela 7'' Wi-Fi 8GB NB195
+128	3476515	Tablet Multilaser M7S Tela 7' 8GB Quad Core 1,2GHz Wi-Fi Android Branco NB185
+129	2024755	Tablet Multilaser ML Supra Preto Quad Core Android 4.4 Kit Kat Dual Camera Wi-Fi Tela 7 Memoria 8GB NB199
+130	3651264	Tablet M7S Multilaser - Preto Quad Core Android 4.4 Kit Kat Dual Camera Wi-Fi Tela Capacitiva 7 Memoria 8GB (NB184)
+131	3628387	Tablet Cover Universal Premium 7
+132	3645890	Tablet Multilaser Kid Pad 8Gb , Quad Core , Android 4.4 , Cam 2.0 MP, Azul - NB194
+133	3632579	Tablet Samsung TAB E T116 Preto 3G Tela 7' 16 GB Wi-Fi Processador 1.3Ghz Android 4.4 Camera 2MP
+134	14629	Tablet Multilaser M-PRO Tela 7 Android 4.1 4GB 3G Wi-Fi Branco Dual Core
+135	4113502	Tablet Multilaser Kid Pad Quad Core Android 4.4 Dual / Cam 2.0 / 7'' / 8gb NB195 - Rosa
+136	3666796	Tablet Infantil Multilaser Disney Princesas Tela 7” Android 4.4 8GB Wi-Fi Rosa Quad Core
+137	4295088	Kit DL Tablet X Quad Pro tela de 7 polegadas + Capa Pink de Pano para Tablet + Modem 3G USB
+138	3628385	Tablet Cover Universal 7'
+139	3540639	Tablet DL Socialphone 3G 8GB Tela 7 Dual ChipTX316
+140	2861546	Tablet M7s Tela 7 Processador Quad-Core 1.2GHz Android 4.4 8GB de Memoria Wi-Fi
+141	2974563	Tablet Supra Quad Core Branco Multilaser - NB200
+142	3419998	Tablet Tela 7 WiFi Android 4.4 Camera 2MP Memoria 8GB Samsung
+143	1592639	Tablet M7s 7Pol 8GB Quad Core Wi-fi Branco NB185 Multilaser
+144	3134215	Tablet Multilaser M7S Rosa Quad Core Android 4.4 Kit Kat Dual Camera Wi-Fi Tela Capacitiva 7' Memoria 8Gb NB186
+145	4096230	Tablet Multilaser M9 Rosa NB248
+146	3412394	Tablet Galaxy Tab A P355M Cinza Tela 8' 3G+WiFi Android 5.0 Camera 5MP Quad Core 1.2 GHz Memoria 16GB Samsung
+147	2552518	Tablet TabPhone 700 DL, 64GB, Android 5, Wi-Fi - TP304BRA
+148	3963809	Tablet M8W Plus Hibrido WI10 8.9' Intel 2GB Memoria 32GB Dual Camera Vermelho Multilaser - NB243
+149	3846837	Tablet Samsung Galaxy Tab T113 Branco, Tela 7'', 8GB, Camera 2MP, Wi-Fi, Android 4.4, Processador Quad Core 1.3GHz
+150	3643694	Tablet Multilaser Kid Pad Com Tela 7' 128GB Camera 1.3MP Wi-Fi Android 4.4 e Suporte a Modem 3G
