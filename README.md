@@ -1,2 +1,4 @@
 # wks
-Para o treinamento de WKS , fazer download dos arquivos .txt
+Para o treinamento de WKS:
+- Fazer download dos arquivos .txt
+- Criar nodered e importar o flow
